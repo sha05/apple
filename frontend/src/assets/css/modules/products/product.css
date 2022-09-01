@@ -1,0 +1,83 @@
+*{
+    margin: 0
+}
+
+body
+{
+    position: relative;
+    width: 100%;
+    list-style:none;
+}
+html{
+    scroll-behavior: smooth;
+
+}
+
+.latestproduct h1 {
+    padding-top: 15px;
+    margin: 0px;
+    margin-bottom:10px;
+}
+
+.maindes{
+    display: flex;
+    justify-content: center;
+}
+
+.Content{
+    margin-left: 40px;
+    width: 35%;
+    height: 100px;
+    text-align:start;
+    padding-left: 80px;
+    padding-top: 180px;
+    
+}
+.maincont{
+    margin-left: 0px;
+    font-size: 17px;
+    height: 30px;
+}
+
+.Content2{
+    display: flex;
+    margin-left:130px;
+    margin-top: 90px;
+}
+
+.img2cont{
+    margin-top: 220px;
+    margin-left:100px;
+    text-align: start;
+}
+
+.img2name{
+    font-size:25px;
+}
+
+.buynow{
+    margin-top:15px;
+    border: 2px solid black;
+    border-radius:  5em;
+    width: 80px;
+    text-align: center;
+    
+    color: black;
+}
+
+#listofproducts{
+    display: flex;
+}
+.Title{
+    margin-left: 0px;
+    margin-top: 40px;
+    
+}
+
+.addtocart{
+    margin-left: 65px;
+    display: flex;
+}
+.iphonex{
+    margin-left: 50px;
+}

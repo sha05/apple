@@ -1,0 +1,28 @@
+.Header{
+  background-color: black;
+  list-style:none;
+  padding-right: 40px;
+  display: flex;
+  justify-content: space-between;
+}
+.Header .credentials{
+  background-color: white;
+}
+.icon{
+  height: 40px;
+  width: 40px;
+}
+.Content{
+  padding: 50px 0px ;
+  font-size: 28px;
+  font-weight: 600px;
+}
+.Lowercontent{
+  font-size: 200px;
+  margin: 7px;
+}
+@media (max-width:1200px){
+  .Lowercontent{
+    font-size: 150px;
+  }
+}
